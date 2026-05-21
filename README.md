@@ -1,4 +1,4 @@
-# Olist E-Commerce Dashboard
+# E-Commerce Revenue Dashboard
 
 ## Introduction
 
@@ -30,10 +30,10 @@ This project put key Power BI features into practice. Here's what we mastered:
 
 ## Dashboard Overview
 
-![Olist E-Commerce Dashboard](resource/sales_data_analysis.png)
+![Olist E-Commerce Dashboard](resource/revenue_analysis.png)
 
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiMGU3N2QwMmItNzYxOS00NmM3LWI5NjUtNzQ4YjI5NzhmOGIzIiwidCI6ImViYmMwOTZjLTkxOWQtNGM2Ny05NmU3LTk0OTIyN2EyZjM0YyIsImMiOjEwfQ%3D%3D&pageName=77d6e549225d0ac0e97c" target="_blank">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMjRlNjI4NzItYWU3My00OTg1LWE0MjEtMTMxZDNkMWE4MmE2IiwidCI6ImViYmMwOTZjLTkxOWQtNGM2Ny05NmU3LTk0OTIyN2EyZjM0YyIsImMiOjEwfQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/Power%20BI-View%20Interactive%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Dashboard">
   </a>
 </p>
